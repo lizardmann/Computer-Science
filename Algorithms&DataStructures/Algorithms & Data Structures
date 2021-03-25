@@ -1,31 +1,66 @@
-Stack
-Queue
-Array
-Linked List
-Hash Table
-Heap
-Tree
-Graph
-Matrix
+Arrays
 
-Sorting / Searching Algorithms
-- Bubble sort
-- Selection sort
-- Insertion sort
-- Merge sort
-- Quick sort
-- Counting sort
-- ....
+Lists, Stacks, Queues
+  - Linked lists
+  - Doubly linked lists
+  - Stacks
+  - Queues
+  - ...
 
-Greedy Algorithms
-- Dijkstra
-- Krustkal
-- Prim's
-- Huffman Code
+Searching
+  - Linear search
+  - Binary search
 
-Dynamic Programming
-- Floyd Warshall
-- Longest common subsequence
+Sorting
+  - Bubble sort
+  - Selection sort
+  - Insertion sort
+  - Merge sort
+  - Treesort
+  - Heapsort
+  - Quicksort
+  - bin / bucket / radix sorts
 
-Backtracking algorithm
-Rabin-Karp Algorithm
+Trees
+  - Quad-trees
+  - Binary Trees
+  - Binary Search Trees
+
+Priority Queues & Heap Trees
+  - Priority queues
+  - Binary heap trees
+  - Binomial heaps
+  - Fibonacci heaps
+
+Hash Tables
+  - Hash table
+
+Graphs
+  - Array based implementation
+  - Mixed implementation
+  - Pointer-based implementation
+  - Traversals
+  - Shortest paths
+    - Dijkstra
+    - Floyd's
+  - Minimal spanning trees
+  - Greedy Algorithms
+    - Prim's algorithm
+    - Kruskal's algorithm
+    - Huffman code
+  - Traveling Salesman
+  - Vehical routing
+  - Longest common subsequence
+
+Matrices
+  - operations
+    - matrix addition
+    - scalar multiplication
+    - matrix subtraction
+    - negative
+    - matrix multiplication
+    - inverse
+    - rank
+    - determinants
+
+Recursion
