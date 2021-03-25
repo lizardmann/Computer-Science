@@ -1,15 +1,38 @@
 Arrays
+  - traverse
+  - insertion
+  - deletion
+  - search
+  - update
 
-Lists, Stacks, Queues
-  - Linked lists
-  - Doubly linked lists
-  - Stacks
-  - Queues
-  - ...
+Lists
+  - Linked list
+  - Doubly linked list
+  - Circular Linked list
+  - insertion
+  - deletion
+  - display
+  - search
+  - delete
+ 
+Stacks
+  - push
+  - pop
+  - peek
+  - isFull
+  - isEmpty
+  
+Queues
+  - enqueue
+  - dequeue
+  - peek
+  - isFull
+  - isEmpty
 
 Searching
   - Linear search
   - Binary search
+  - Interpolation search
 
 Sorting
   - Bubble sort
@@ -18,6 +41,7 @@ Sorting
   - Merge sort
   - Treesort
   - Heapsort
+  - Shell sort
   - Quicksort
   - bin / bucket / radix sorts
 
@@ -25,6 +49,11 @@ Trees
   - Quad-trees
   - Binary Trees
   - Binary Search Trees
+  - insert
+  - search
+  - preorder traversal
+  - inorder traversal
+  - postorder traversal
 
 Priority Queues & Heap Trees
   - Priority queues
@@ -33,7 +62,11 @@ Priority Queues & Heap Trees
   - Fibonacci heaps
 
 Hash Tables
-  - Hash table
+  - hashing
+  - linear probing
+  - search
+  - insert
+  - delete
 
 Graphs
   - Array based implementation
@@ -64,3 +97,5 @@ Matrices
     - determinants
 
 Recursion
+  - Towers of Hanoi
+  - Fibonacci Series
