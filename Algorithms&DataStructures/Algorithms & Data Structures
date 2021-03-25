@@ -1,1 +1,31 @@
+Stack
+Queue
+Array
+Linked List
+Hash Table
+Heap
+Tree
+Graph
+Matrix
 
+Sorting / Searching Algorithms
+- Bubble sort
+- Selection sort
+- Insertion sort
+- Merge sort
+- Quick sort
+- Counting sort
+- ....
+
+Greedy Algorithms
+- Dijkstra
+- Krustkal
+- Prim's
+- Huffman Code
+
+Dynamic Programming
+- Floyd Warshall
+- Longest common subsequence
+
+Backtracking algorithm
+Rabin-Karp Algorithm
